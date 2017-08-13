@@ -16,26 +16,27 @@
     <!-- end of logo-->
     <div>
         <div class="weui-panel__bd">
-                <a href="javascript:void(0);" class="weui-media-box weui-media-box_appmsg">
+            {% for item in data %}
+                 <a href="/details/{{item.student_number}}" class="weui-media-box weui-media-box_appmsg uband-user-item">
                     <div class="weui-media-box__hd">
-                        <img class="weui-media-box__thumb" src="/static/img/heads/guoshushu.png" alt="">
+                        <img class="weui-media-box__thumb uband-user-item-img" src="{{item.head_icon}}" alt=""/>
                     </div>
                     <div class="weui-media-box__bd">
-                        <h4 class="weui-media-box__title">锅蜀黍</h4>
-                        <p class="weui-media-box__desc">这是一个很厉害的人</p>
+                        <h4 class="weui-media-box__title uband-user-name" >{{item.name}}</h4>
+                        <p class="weui-media-box__desc uband-user-desc">{{item.desc}}</p>
+                         <p>
+                            {% for label in item.tags %}
+                            <label class="uband-user-label" for="">{{label}}</label>
+                           
+                            {%endfor%}
+                        </p>
                     </div>
-                </a>
-                 <a href="javascript:void(0);" class="weui-media-box weui-media-box_appmsg">
-                    <div class="weui-media-box__hd">
-                        <img class="weui-media-box__thumb" src="/static/img/heads/guoshushu.png" alt=""/>
-                    </div>
-                    <div class="weui-media-box__bd">
-                        <h4 class="weui-media-box__title">锅蜀黍</h4>
-                        <p class="weui-media-box__desc">这是一个很厉害的人</p>
-                    </div>
-                </a>
-                
-            </div>
+                     <div class="uband-usre-checkins" >
+                        <p>打卡数:{{item.checkins}}</p>
+                     </div>
+                </a> 
+            {% endfor %}        
+        </div>
     </div>
 </body>
 </html>
