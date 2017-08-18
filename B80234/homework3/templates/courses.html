@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <title>Uband的朋友们</title>
+    
+    <link rel="stylesheet" href="/static/lib/weui/style/weui.css">
+    <link rel="stylesheet" href="/static/css/app.css">
+</head>
+<body ontouchstart>
+    <!-- <a href="" class="weui_btn weui_btn_primary">按钮</a> -->
+    <!-- logo -->
+    <div class="details-head"> 
+        <div class="details-head-img-page">
+            <a href="/"><div class="back-icon"></div></a>
+            <!-- <div class="back-icon"></div> -->
+            <img class="details-head-img" src="{{data.head}}" alt=""> 
+        </div>
+        <div class="details-head-desc-page">
+            <div class="details-head-name">
+            {{data.name}}
+            </div>
+            <div class="details-head-desc">
+            {{data.disc}}
+            </div>  
+        </div>
+    </div>
+    <div class="details-tabs-head ">
+        <a href="/details/{{data.student_number}}"><div class="details-tab-head ">
+            个人简介
+        </div></a>
+        <a href="/details/{{data.student_number}}/materials"><div class="details-tab-head">
+            学习分享
+        </div></a>
+        <div class="details-tab-head details-tab-active">
+            Uband课程
+        </div>
+        <a href="/details/{{data.student_number}}/evas"><div class="details-tab-head">
+            U友评价
+        </div></a>
+    </div>
+    <div class="weui-panel__bd">
+        {% for course in data.courses %}
+        <a href="{{course.link}}" class="weui-media-box weui-media-box_appmsg uband-user-item">
+            <div class="weui-media-box__hd ">
+                <img class="weui-media-box__thumb uband-course-img" src="{{course.head}}" alt="">
+            </div>
+            <div class="weui-media-box__bd">
+                    <h4 class="weui-media-box__title uband-course-name">{{course.name}}</h4>
+                    <p class="weui-media-box__desc uband-course-disc">{{course.desc}}</p>
+            </div>
+            <div class="uband-course-student-number">
+                学生数：{{course.student_number}}
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+    <div class="weui-footer">
+        <p class="weui-footer_text">Copyright © Uband-S2-F4 2016-2017</p>
+    </div>
+</body>
+</html>

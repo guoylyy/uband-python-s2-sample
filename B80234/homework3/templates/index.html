@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <title>Uband的朋友们</title>
+    
+    <link rel="stylesheet" href="/static/lib/weui/style/weui.css">
+    <link rel="stylesheet" href="http://res.wx.qq.com/open/libs/weui/0.4.0/weui.min.css">
+    <link rel="stylesheet" href="/static/css/app.css">
+</head>
+<body ontouchstart>
+    <!-- <a href="" class="weui_btn weui_btn_primary">按钮</a> -->
+    <!-- logo -->
+    <div class="logo-page">
+        <img class="uband-logo" src="/static/img/uband-logo.png" alt="">
+    </div>
+    <!-- end of logo-->
+    <div >
+        <div class="weui-panel__bd">
+            {% for item in data %}
+                <a href="/details/{{item.student_number}}" class="weui-media-box weui-media-box_appmsg uband-user-item">
+                    <div class="weui-media-box__hd">
+                        <!-- <img class="weui-media-box__thumb uband-user-item-img" src="/static/img/heads/feiyu.jpg" alt=""> -->
+                        <img class="weui-media-box__thumb uband-user-item-img" src="{{item.head}}" alt="">
+                    </div>
+                    <div class="weui-media-box__bd">
+                        <h4 class="weui-media-box__title uband-user-name">{{item.name}}</h4>
+                        <p class="weui-media-box__desc uband-user-disc">{{item.disc}}</p>
+                        <p>
+                            {% for label in item.tags %}
+                            <label for="" class="uband-user-label">{{label}}</label>
+                            
+                            {%endfor%}
+                        </p>
+                    </div>
+                    <div class="uband-user-checkins">
+                    <p>
+                        打卡数：{{item.checkins}}
+                    </p>
+                    </div>
+                </a>
+            {%endfor%}
+        </div>
+    </div>
+</body>
+</html>

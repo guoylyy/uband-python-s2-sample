@@ -1,0 +1,286 @@
+[
+	{
+		"student_number":"B20769",
+		"name":"飞鱼",
+		"disc":"学习使我快乐",
+		"tags":["Uband-S2学员","工科男"],
+		"checkins":28,
+		"head":"/static/img/heads/feiyu1.jpg",
+		"materials":
+		[
+			{
+				"title":"Flask",
+				"desc":"Flask是Python中一个微型的Web开发框架。",
+				"link":"http://www.pythondoc.com/flask/"
+			},
+			{
+				"title":"135编辑器",
+				"desc":"135编辑器是一个微信文章美化工具，操作简单方便，旨在提供丰富的样式，精美的模板。",
+				"link":"http://www.135editor.com/"
+			}
+		],
+
+		"courses":
+		[
+			{
+				"head":"/static/img/heads/ubands1.png",
+				"name":"Uband-S1",
+				"desc":"创意编程班S1",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			},
+			{
+				"head":"/static/img/heads/ubands2.png",
+				"name":"Uband-S2",
+				"desc":"创意编程班S2",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			},
+			{
+				"head":"/static/img/heads/tongji.jpg",
+				"name":"同济支部培训班",
+				"desc":"同济支部培训班",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			}
+
+		],
+		
+		"evas":
+		[
+			{
+				"name":"B20834-晨曦",
+    			"head": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3736478043,2588358443&fm=26&gp=0.jpg",
+				"content":"good",
+				"from":"Uband-S2"
+			},
+			{
+				"name":"B18355-清蒸",
+				"head":"/static/img/heads/yangjing.jpg",
+				"content":"good",
+				"from":"Uband-S2"
+			},
+			{
+				"name":"B20840-豆子",
+				"head":"/static/img/heads/patato.jpg",
+				"content":"good",
+				"from":"Uband-S2"
+			}
+		],
+		"intro":"<section data-id=\"89994\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section data-id=\"us528475\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"padding:20px 20px;\"><section style=\"width:100%; height:auto; box-shadow:10px 10px 0px #7498e1;-moz-box-shadow:10px 10px 0px #7498e1;-ms-box-shadow:10px 10px 0px #7498e1;-o-box-shadow:10px 10px 0px #7498e1;-webkit-box-shadow:10px 10px 0px #7498e1;\"><img style=\"display: block;\" src=\"http://image.135editor.com/files/users/275/2752352/201708/tYEcJHNu_aukN.jpg\" title=\"QQ截图20170818094005.jpg\" alt=\"QQ截图20170818094005.jpg\"/></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-role=\"paragraph\"><p><br/></p></section><section data-id=\"us528531\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block;\"><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    F</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    4</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    之</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    飞</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    鱼</p></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us528650\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block; font-size:16px; height:35px; padding:0px 10px; background-color:#7498e1; line-height:35px; color:#fff; border-radius:15px 0px 0px 15px;\">                    个人简介</section></section><section style=\"padding:20px 20px; border:solid 1px #7498e1; font-size:14px; border-radius:10px; margin-top:-20px;\"><p style=\"margin:0px;\">                    来自武汉的同济er，本科就读于武汉理工大学车辆工程专业，现在就读于同济大学车辆工程专业，研究生一年级。喜欢接触新鲜事物，虽然有点五音不全，但还是很喜欢唱歌，平时会去跑步，健身，但不喜欢去健身房。喜欢旅游，不只是因为风景有多美，还因为那里有想见的朋友。喜欢吃，作为武汉人的我虽然不能吃辣，但绝对重口味。</p></section><section style=\"width:100%;\"><section style=\"float:right; margin-top:-30px; margin-right:-20px; background-color:rgb(254,254,254);\"><img src=\"http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1JZOXlZYjJ4ZEc1c1RvNU4wdzFtSkUzQlFTb0dpYWg5Y1JsRzFkYU81bXJlR01wVkRpY0NYS0t2eTl3MWRpY1JmSDd3UDlMMWlicEFMcm93LzA/d3hfZm10PXBuZw==\"/></section></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-id=\"us528665\" class=\"_135editor\" style=\"border: 0px none; padding: 0px;\"><section style=\"width:100%; text-align:center;\"><img style=\"width:100px;\" src=\"http://image2.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1JZOXlZYjJ4ZEc1c1RvNU4wdzFtSkVKU3BXRmtFOXJxVWU1ZGQ4Ynl2VmRrdE8ydjlvN2ZqaWNMMjR3bVBkSFJXUVE4aWJqSHVvTGE1US8wP3d4X2ZtdD1wbmc=\"/></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us535074\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block;\" class=\"135brush\"><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">业</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">余</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">活</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">动</span></p></section></section></section><section style=\"width:100%; clear:both;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us535086\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"padding:0px 20px 0px 10px;\"><section style=\"width:100%; height:auto; overflow:hidden; box-shadow:10px 10px 0px #7498e1;-moz-box-shadow:10px 10px 0px #7498e1;-ms-box-shadow:10px 10px 0px #7498e1;-o-box-shadow:10px 10px 0px #7498e1;-webkit-box-shadow:10px 10px 0px #7498e1;\"><br/></section></section><section style=\"width:100%; clear:both;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us527357\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"padding:15px 15px; font-size:14px; class=\"><p style=\"margin:0px;\">                    平时喜欢看一些电影，听听音乐，喜欢老歌。基本每天都会坚持锻炼，最多的就是跑步啦。偶尔还会约上三五个好友一起去K歌。&nbsp;</p></section></section><section style=\"clear:both; width:100%;\"></section></section></section><p><br/></p><section data-role=\"paragraph\" class=\"_135editor\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section> "
+	},
+
+	{
+    	"student_number": "B20834",
+    	"name": "晨曦",
+    	"disc": "唯美食与美女不能辜负",
+		"tags": ["美食", "旅行"],
+    	"checkins": 28,
+		"head": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3736478043,2588358443&fm=26&gp=0.jpg",
+    	"materials": 
+    	[
+    		{
+            	"title": "The definite guide to HTML",
+            	"desc": "学习HTML5的必备经典。",
+				"link": "https://www.amazon.com/Definitive-Guide-HTML5-Adam-Freeman/dp/1430239603"
+        	},
+        	{
+            	"title": "JavaScript: The Definitive Guide",
+            	"desc": "A must-have reference for expert JavaScript programmers.",
+            	"link": "http://shop.oreilly.com/product/9780596805531.do"
+        	}
+    	],
+
+    	"courses": 
+	   	[
+    		{
+				"head":"/static/img/heads/ubands1.png",
+				"name":"Uband-S1",
+				"desc":"创意编程班S1",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			},
+			{
+				"head":"/static/img/heads/ubands2.png",
+				"name":"Uband-S2",
+				"desc":"创意编程班S2",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			},
+        	{
+        		"head":"/static/img/heads/spokene.png",
+				"name": "Uband口语课",
+				"desc": "Uband口语课",
+            	"student_number":200,
+				"link": "http://wechat.gambition.cn/course/list"
+			}
+
+		],
+
+		"evas":
+		[
+			{
+				"name":"B20769-飞鱼",
+				"head":"/static/img/heads/feiyu1.jpg",
+				"content":"宝妈，有趣、爱学习还有一点自恋的宝妈！",
+				"from":"Uband-S2"
+			},
+			{				
+				"name":"B18355-清蒸",
+				"head":"/static/img/heads/yangjing.jpg",
+				"content":"good",				
+				"from":"Uband-S2"
+			},
+			{
+				"name":"B20840-豆子",
+				"head":"/static/img/heads/patato.jpg",
+				"content":"good",
+				"from":"Uband-S2"
+			}
+    	],
+
+		"intro": "<section data-id=\"89994\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section data-id=\"us528475\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"padding:20px 20px;\"><section style=\"width:100%; height:auto; box-shadow:10px 10px 0px #7498e1;-moz-box-shadow:10px 10px 0px #7498e1;-ms-box-shadow:10px 10px 0px #7498e1;-o-box-shadow:10px 10px 0px #7498e1;-webkit-box-shadow:10px 10px 0px #7498e1;\"><img style=\"display: block;\" src=\"http://image.135editor.com/files/users/275/2752352/201708/tYEcJHNu_aukN.jpg\" title=\"QQ截图20170818094005.jpg\" alt=\"QQ截图20170818094005.jpg\"/></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-role=\"paragraph\"><p><br/></p></section><section data-id=\"us528531\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block;\"><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    F</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    4</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    之</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    晨</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    曦</p></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us528650\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block; font-size:16px; height:35px; padding:0px 10px; background-color:#7498e1; line-height:35px; color:#fff; border-radius:15px 0px 0px 15px;\">                    个人简介</section></section><section style=\"padding:20px 20px; border:solid 1px #7498e1; font-size:14px; border-radius:10px; margin-top:-20px;\"><p style=\"margin:0px;\"><span style=\"font-family: 微软雅黑; font-size: 14px;\"><span style=\"font-family: 微软雅黑; color: #222222; font-variant-ligatures: normal; orphans: 2; white-space: pre-wrap; widows: 2;\">本地土著，混迹于国企。爱好运动和旅游，当然还少不了吃吃吃。因为工作的原因，应该算去过国内的大部分城市，从南到北，每到一地最先想去的就是当地有特色的小馆子。</span></span></p></section><section style=\"width:100%;\"><section style=\"float:right; margin-top:-30px; margin-right:-20px; background-color:rgb(254,254,254);\"><img src=\"http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1JZOXlZYjJ4ZEc1c1RvNU4wdzFtSkUzQlFTb0dpYWg5Y1JsRzFkYU81bXJlR01wVkRpY0NYS0t2eTl3MWRpY1JmSDd3UDlMMWlicEFMcm93LzA/d3hfZm10PXBuZw==\"/></section></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-id=\"us528665\" class=\"_135editor\" style=\"border: 0px none; padding: 0px;\"><section style=\"width:100%; text-align:center;\"><img style=\"width:100px;\" src=\"http://image2.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1JZOXlZYjJ4ZEc1c1RvNU4wdzFtSkVKU3BXRmtFOXJxVWU1ZGQ4Ynl2VmRrdE8ydjlvN2ZqaWNMMjR3bVBkSFJXUVE4aWJqSHVvTGE1US8wP3d4X2ZtdD1wbmc=\"/></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us535074\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block;\" class=\"135brush\"><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">业</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">余</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">活</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">动</span></p></section></section></section><section style=\"width:100%; clear:both;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us535086\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"padding:0px 20px 0px 10px;\"><section style=\"width:100%; height:auto; overflow:hidden; box-shadow:10px 10px 0px #7498e1;-moz-box-shadow:10px 10px 0px #7498e1;-ms-box-shadow:10px 10px 0px #7498e1;-o-box-shadow:10px 10px 0px #7498e1;-webkit-box-shadow:10px 10px 0px #7498e1;\"><br/></section></section><section style=\"width:100%; clear:both;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us527357\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"padding:15px 15px; font-size:14px; class=\"><p style=\"margin:0px;\"><span style=\"color: #222222; font-variant-ligatures: normal; orphans: 2; white-space: pre-wrap; widows: 2; font-family: 微软雅黑; font-size: 14px;\">喜欢打篮球和羽毛球，由于篮球越来越难凑齐小伙伴，所以最近就慢慢转向了羽毛球。无奈天赋不足，不知道有没有同好的小伙伴来切磋一下。</span></p></section></section><section style=\"clear:both; width:100%;\"></section></section></section><p><br/></p><section data-role=\"paragraph\" class=\"_135editor\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section>"
+	},
+
+	{
+		"student_number":"B18355",
+		"name":"清蒸",
+		"disc":"我爱学习",
+		"tags":["Uband-S2学员","工科狗"],
+		"checkins":28,
+		"head":"/static/img/heads/yangjing.jpg",
+		"materials":
+		[
+			{
+				"title":"法语基础",
+				"desc":"法语基本发音规则，简单单词，实用法语基础。",
+				"link":""
+			},
+			{
+				"title":"python基础编程",
+				"desc":"python基础编程，python游戏编程，flask架构了解。",
+				"link":""
+			}
+		],
+
+		"courses":
+		[
+			{
+				"head":"/static/img/heads/ubands1.png",
+				"name":"Uband-S1",
+				"desc":"创意编程班S1",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			},
+			{
+				"head":"/static/img/heads/ubands2.png",
+				"name":"Uband-S2",
+				"desc":"创意编程班S2",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			},
+			{
+				"head":"/static/img/heads/frenchs1.png",
+				"name":"Uband-法语",
+				"desc":"Uband-法语基础班",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			},
+			{
+				"head":"/static/img/heads/listen.png",
+				"name":"Uband-听力",
+				"desc":"听力训练班8月",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			}
+
+		],
+		
+		"evas":
+		[
+			{
+				"name":"B20769-飞鱼",
+				"head":"/static/img/heads/feiyu1.jpg",
+				"content":"超级爱学习的大学霸，机器人大神，膜拜ing。",
+				"from":"Uband-S2"
+			},
+			{
+				"name":"B20834-晨曦",
+    			"head": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3736478043,2588358443&fm=26&gp=0.jpg",
+				"content":"good",
+				"from":"Uband-S2"
+			},
+			{
+				"name":"B20840-豆子",
+				"head":"/static/img/heads/patato.jpg",
+				"content":"good",
+				"from":"Uband-S2"
+			}
+		],
+    	"intro": "<section data-id=\"89994\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section data-id=\"us528475\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"padding:20px 20px;\"><section style=\"width:100%; height:auto; box-shadow:10px 10px 0px #7498e1;-moz-box-shadow:10px 10px 0px #7498e1;-ms-box-shadow:10px 10px 0px #7498e1;-o-box-shadow:10px 10px 0px #7498e1;-webkit-box-shadow:10px 10px 0px #7498e1;\"><img style=\"display: block;\" src=\"http://image.135editor.com/files/users/275/2752352/201708/tYEcJHNu_aukN.jpg\" title=\"QQ截图20170818094005.jpg\" alt=\"QQ截图20170818094005.jpg\"/></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-role=\"paragraph\"><p><br/></p></section><section data-id=\"us528531\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block;\"><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    F</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    4</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    之</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    清</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    蒸</p></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us528650\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block; font-size:16px; height:35px; padding:0px 10px; background-color:#7498e1; line-height:35px; color:#fff; border-radius:15px 0px 0px 15px;\">                    个人简介</section></section><section style=\"padding:20px 20px; border:solid 1px #7498e1; font-size:14px; border-radius:10px; margin-top:-20px;\"><p style=\"margin:0px;\"><span style=\"font-family: 微软雅黑; font-size: 14px;\"><span style=\"font-family: 微软雅黑; color: #222222; font-variant-ligatures: normal; orphans: 2; white-space: pre-wrap; widows: 2;\">来自辽阔的大西北～现坐标上海，研究生，本硕均就读于同济大学控制科学与工程系，现在的研究课题是仿人机器人的行走。平时爱好阅读，目标上走遍成都的大街小巷，吃遍各路美食。</span></span></p></section><section style=\"width:100%;\"><section style=\"float:right; margin-top:-30px; margin-right:-20px; background-color:rgb(254,254,254);\"><img src=\"http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1JZOXlZYjJ4ZEc1c1RvNU4wdzFtSkUzQlFTb0dpYWg5Y1JsRzFkYU81bXJlR01wVkRpY0NYS0t2eTl3MWRpY1JmSDd3UDlMMWlicEFMcm93LzA/d3hfZm10PXBuZw==\"/></section></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-id=\"us528665\" class=\"_135editor\" style=\"border: 0px none; padding: 0px;\"><section style=\"width:100%; text-align:center;\"><img style=\"width:100px;\" src=\"http://image2.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1JZOXlZYjJ4ZEc1c1RvNU4wdzFtSkVKU3BXRmtFOXJxVWU1ZGQ4Ynl2VmRrdE8ydjlvN2ZqaWNMMjR3bVBkSFJXUVE4aWJqSHVvTGE1US8wP3d4X2ZtdD1wbmc=\"/></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us535074\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block;\" class=\"135brush\"><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">业</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">余</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">活</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">动</span></p></section></section></section><section style=\"width:100%; clear:both;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us535086\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"padding:0px 20px 0px 10px;\"><section style=\"width:100%; height:auto; overflow:hidden; box-shadow:10px 10px 0px #7498e1;-moz-box-shadow:10px 10px 0px #7498e1;-ms-box-shadow:10px 10px 0px #7498e1;-o-box-shadow:10px 10px 0px #7498e1;-webkit-box-shadow:10px 10px 0px #7498e1;\"><br/></section></section><section style=\"width:100%; clear:both;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us527357\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"padding:15px 15px; font-size:14px; class=\"><p style=\"margin:0px;\"><span style=\"color: #222222; font-variant-ligatures: normal; orphans: 2; white-space: pre-wrap; widows: 2; font-family: 微软雅黑; font-size: 14px;\">灰常喜欢看小说，阅读，偶尔跑跑步，最经常的娱乐活动大概是狼人杀了吧，嘻嘻。其实我也喜欢打麻将啊哈哈。</span></p></section></section><section style=\"clear:both; width:100%;\"></section></section></section><p><br/></p><section data-role=\"paragraph\" class=\"_135editor\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section>"
+	},
+
+	{
+		"student_number":"B20840",
+		"name":"豆子",
+		"disc":"一个努力中的技术学习者",
+		"tags":["奶爸","技术学习者"],
+		"checkins":28,
+		"head":"/static/img/heads/patato.jpg",
+		"materials":
+		[
+			{
+				"title":"学习感悟",
+				"desc":"一切口头的编程都是空谈，只有认真完成每一次作业和项目才能掌握这门编程语言。",
+				"link":""
+			},
+			{
+				"title":"How browsers work",
+				"desc":"Behind the scenes of modern web browsers.",
+				"link":"http://taligarsiel.com/Projects/howbrowserswork1.htm?from=timeline&isappinstalled=0"
+			}
+		],
+
+		"courses":
+		[
+			{
+				"head":"/static/img/heads/ubands1.png",
+				"name":"Uband-S1",
+				"desc":"创意编程班S1",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			},
+			{
+				"head":"/static/img/heads/ubands2.png",
+				"name":"Uband-S2",
+				"desc":"创意编程班S2",
+				"student_number":200,
+				"link":"http://wechat.gambition.cn/course/list"
+			}
+
+		],
+		
+		"evas":
+		[
+			{
+				"name":"B20769-飞鱼",
+				"head":"/static/img/heads/feiyu1.jpg",
+				"content":"刚刚荣升为奶爸的组长，小公举很可爱！",
+				"from":"Uband-S2"
+			},
+			{
+				"name":"B20834-晨曦",
+    			"head": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3736478043,2588358443&fm=26&gp=0.jpg",
+				"content":"good",
+				"from":"Uband-S2"
+			},
+			{
+				"name":"B18355-清蒸",
+				"head":"/static/img/heads/yangjing.jpg",
+				"content":"good",
+				"from":"Uband-S2"
+			}
+		],
+    	"intro": "<section data-id=\"89994\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section data-id=\"us528475\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"padding:20px 20px;\"><section style=\"width:100%; height:auto; box-shadow:10px 10px 0px #7498e1;-moz-box-shadow:10px 10px 0px #7498e1;-ms-box-shadow:10px 10px 0px #7498e1;-o-box-shadow:10px 10px 0px #7498e1;-webkit-box-shadow:10px 10px 0px #7498e1;\"><img style=\"display: block;\" src=\"http://image.135editor.com/files/users/275/2752352/201708/tYEcJHNu_aukN.jpg\" title=\"QQ截图20170818094005.jpg\" alt=\"QQ截图20170818094005.jpg\"/></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-role=\"paragraph\"><p><br/></p></section><section data-id=\"us528531\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block;\"><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    F</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    4</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    之</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    豆</p><p style=\" margin:0px; display:inline-block; width:30px; height:30px; background-color:#7498e1; border-radius:100%; color:#fff; line-height:30px; text-align:center; font-size:16px; font-weight:bold;\">                    子</p></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us528650\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block; font-size:16px; height:35px; padding:0px 10px; background-color:#7498e1; line-height:35px; color:#fff; border-radius:15px 0px 0px 15px;\">                    个人简介</section></section><section style=\"padding:20px 20px; border:solid 1px #7498e1; font-size:14px; border-radius:10px; margin-top:-20px;\"><p style=\"margin:0px;\"><span style=\"font-family: 微软雅黑; font-size: 14px;\"><span style=\"font-family: 微软雅黑; color: #222222; font-variant-ligatures: normal; orphans: 2; white-space: pre-wrap; widows: 2;\">来自湖北，现居费城，曾在avaya，HP，HSBC等公司工作过。刚刚荣升为奶爸，现在一边学编程一边带娃。</span></span></p></section><section style=\"width:100%;\"><section style=\"float:right; margin-top:-30px; margin-right:-20px; background-color:rgb(254,254,254);\"><img src=\"http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1JZOXlZYjJ4ZEc1c1RvNU4wdzFtSkUzQlFTb0dpYWg5Y1JsRzFkYU81bXJlR01wVkRpY0NYS0t2eTl3MWRpY1JmSDd3UDlMMWlicEFMcm93LzA/d3hfZm10PXBuZw==\"/></section></section></section><section style=\"clear:both; width:100%;\"></section></section><section data-id=\"us528665\" class=\"_135editor\" style=\"border: 0px none; padding: 0px;\"><section style=\"width:100%; text-align:center;\"><img style=\"width:100px;\" src=\"http://image2.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1JZOXlZYjJ4ZEc1c1RvNU4wdzFtSkVKU3BXRmtFOXJxVWU1ZGQ4Ynl2VmRrdE8ydjlvN2ZqaWNMMjR3bVBkSFJXUVE4aWJqSHVvTGE1US8wP3d4X2ZtdD1wbmc=\"/></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us535074\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"width:100%; text-align:center;\"><section style=\"display:inline-block;\" class=\"135brush\"><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">业</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">余</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">活</span></p><p style=\"display:inline-block; width:30px; height:30px; background-color:#7498e1; font-size:16px; color:#fff; line-height:30px; text-align:center; margin-right:5px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);\"><span style=\"; display:inline-block;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);\">动</span></p></section></section></section><section style=\"width:100%; clear:both;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us535086\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\"padding:0px 20px 0px 10px;\"><section style=\"width:100%; height:auto; overflow:hidden; box-shadow:10px 10px 0px #7498e1;-moz-box-shadow:10px 10px 0px #7498e1;-ms-box-shadow:10px 10px 0px #7498e1;-o-box-shadow:10px 10px 0px #7498e1;-webkit-box-shadow:10px 10px 0px #7498e1;\"><br/></section></section><section style=\"width:100%; clear:both;\"></section></section><section data-role=\"paragraph\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section><section data-id=\"us527357\" class=\"_135editor\" style=\"border: 0px none; padding: 0px; position: relative;\"><section style=\" padding:10px 10px;\"><section style=\"padding:15px 15px; font-size:14px; class=\"><p style=\"margin:0px;\"><span style=\"color: #222222; font-variant-ligatures: normal; orphans: 2; white-space: pre-wrap; widows: 2; font-family: 微软雅黑; font-size: 14px;\">平时的业余活动比较丰富，诸如：打篮球，游泳，健身，跑步，看美剧。同时我也是GOT粉，nickelback粉!</span></p></section></section><section style=\"clear:both; width:100%;\"></section></section></section><p><br/></p><section data-role=\"paragraph\" class=\"_135editor\" style=\"border: 0px none; padding: 0px;\"><p><br/></p></section>"
+	}
+]

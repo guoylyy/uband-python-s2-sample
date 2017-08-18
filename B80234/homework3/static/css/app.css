@@ -1,0 +1,209 @@
+.logo-page{
+    padding-bottom: 14px;
+    border-bottom:  solid 1px #EFEFEF;
+}
+
+.uband-logo{
+    width:80px;
+    height:33px;
+    display:block;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+
+.uband-user-item-img{
+	width:68px;
+	height:68px;
+	border-radius: 50%;
+}
+.uband-user-item{
+	margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: solid #efefef 1px;
+    border-radius: 6px;
+}
+.uband-user-label{
+	width: 50px;
+	height: 17px;
+	background-color: #ff4060;
+	border-radius: 8px;
+	font-size: 10px;
+	color: #fff;
+	padding: 3px;
+}
+.uband-user-name{
+	font-size: 15px;
+
+}
+.uband-user-disc{
+	font-size: 13px;
+}
+.uband-user-checkins{
+	width: 70px;
+	margin-top: -40px;	
+}
+.uband-user-checkins >p{
+	text-align: right;
+	font-size: 11px;
+	color: #828282;
+}
+
+
+/* details page css*/
+.details-head{
+	width:100%;
+	height:206px;
+	background-image: url('/static/img/details-background.png');
+	background-size: 406px 100%;
+	padding-top: 20px;
+}
+.details-head-img-page{
+	width: 100%;
+	height: 108px;
+}
+.details-head-img{
+	width:68px;
+	height:68px;
+	border-radius: 50%;
+	margin:0 auto;
+	display: block;
+	margin-top: -16px;
+
+
+}
+.back-icon{
+	background-image: url('/static/img/back-icon.png');
+	background-size: 100%;
+	height: 16px;
+	width: 10px;
+	display: inline-block;
+	margin-left: 15px;
+}
+.details-head-desc-page{
+	width:100%;
+	height:98px;
+	background-color: #fff;
+	opacity: 0.5;
+}
+.details-head-name{
+	font-size: 18px;
+	text-align: center;
+	padding-top: 6px;
+
+}
+.details-head-desc{
+	font-size: 12px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 8px;
+}
+
+.uband-user-checkins{
+	font-size: 14px;
+	text-align: center;
+}
+
+.details-tabs-head{
+	width:100%;
+	height:35px;
+	margin-top: 5px;
+	border-bottom: solid 1px #EFEFEF;
+}
+
+
+.details-tab-head{	
+	width:25%;
+	font-size: 14px;
+	text-align: center;
+	float: left;
+	color: #333;
+
+}
+
+.details-tab-active{
+	color: red;
+}
+
+.details-tab{
+	min-height: 200px;
+	margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: solid #efefef 1px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+
+.uband-course-img{
+	width:100px;
+	height:68px;
+}
+
+.uband-course-name{
+	font-size: 18px;
+}
+
+
+.uband-course-disc{
+	font-size: 13px;
+}
+.uband-course-student-number{
+	width: 100px;
+	margin-top: -40px;	
+}
+.uband-course-student-number >p{
+	text-align: right;
+	font-size: 13px;
+	color: #828282;
+}
+.Uband-evas-title{
+	font-size: 18px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.uband-user-eva{
+	margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.uband-user-eva-name{
+	font-size: 13px;
+	text-align: top;
+	margin-top: -20px;
+	color: #828282;
+}
+.uband-user-eva-content{
+	font-size: 18px;
+	color: black;
+}
+
+.uband-user-eva-from {
+	text-align: right;
+	font-size: 13px;
+	color: #828282;
+	margin-top: -40px;
+
+}
+
+.uband-mat-item{
+	margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: solid #efefef 1px;
+    border-radius: 6px;
+}
+
+.uband-mat-name{
+	font-size: 18px;
+}
+
+
+.uband-mat-desc{
+	font-size: 13px;
